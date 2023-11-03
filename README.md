@@ -21,12 +21,10 @@ I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :zap: In my free time, I solve problems on Leetcode and watch youtube video to improve my programming skills and domain knowledge.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotondwa-munyai-b50021239)
+  
+---
 
-
-
-
-👋 Hi, I’m @codewithash-hub
-👀 I’m interested in 👇 Programming languages:
+### :hammer_and_wrench: 🌱 I’m currently learning these Languages and Tools :
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,23 +32,18 @@ I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-
-🌱 I’m currently learning these Frameworks and Libraries.
-<p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-Databases
-<p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
+
+👋 Hi, I’m @codewithash-hub
+👀 I’m interested in 👇 Programming languages:
 
 <!---
 codewithash-hub/codewithash-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
