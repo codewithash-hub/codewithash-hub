@@ -12,9 +12,9 @@
 
 ### :woman_technologist: About Me :
 
-I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from South Africa.
 
-- :telescope: I’m studying Information Technology at Richfield Graduate Institute, specialize in, Data Science and frontend and backend for building web applications.
+- :telescope: I’m studying Information Technology at Richfield Graduate Institute, I specialize in Data Science and frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
