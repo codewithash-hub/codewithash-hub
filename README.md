@@ -8,6 +8,22 @@
   <img src="https://komarev.com/ghpvc/?username=codewithash-hub&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
+I am an IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+
+- :telescope: I’m studying Information Technology at Richfield Graduate Institute, specialize in, Data Science and frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and watch youtube video to improve my programming skills and domain knowledge.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotondwa-munyai-b50021239)
+
+
+
 
 👋 Hi, I’m @codewithash-hub
 👀 I’m interested in 👇 Programming languages:
